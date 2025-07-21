@@ -1,6 +1,6 @@
 # RAGBot: Retrieval-Augmented Generation for IT Support Tickets
 
-Welcome to **RAGBot** — a full-stack chatbot powered by **vector search**, **FAISS**, and a **quantized open-source LLM (Zephyr-7B-Beta)**. It provides **contextual answers** to IT support queries using historical ticket data.
+Welcome to **RAGBot** — a full-stack chatbot powered by **vector search**, **FAISS**, and a **quantized open-source LLM (Zephyr-7B-Beta)**. It provides **contextual answers** to IT support queries using historical ticket data.This is a Retrieval Augmented Generation based Project.
 
 Built entirely in **Google Colab**, optimized for **free-tier infrastructure**, and designed to be fully modular and extensible.
 
